@@ -15,6 +15,7 @@ jobs:
       
             - name: Deploy
               run: |
+                git --version
                 git clone https://github.com/sbc-juanarevalo/sbc_pruebas_terraform_aws.git
                 
       
