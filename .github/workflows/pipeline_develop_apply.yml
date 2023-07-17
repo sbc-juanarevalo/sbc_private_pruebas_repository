@@ -17,8 +17,9 @@ jobs:
               run: |
                 git --version
                 git clone https://github.com/sbc-juanarevalo/sbc_pruebas_terraform_aws.git
-                cd sbc_pruebas_terraform_aws/src
+                cd sbc_pruebas_terraform_aws/src                
                 cat main.tf
+                terraform init
                 
                 
       
