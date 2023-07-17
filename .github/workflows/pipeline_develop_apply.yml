@@ -25,6 +25,7 @@ jobs:
               run: |
                 terraform init
                 ls
+                cat README.md
                 
                 
       
