@@ -18,5 +18,6 @@ jobs:
                 git --version
                 git clone https://github.com/sbc-juanarevalo/sbc_pruebas_terraform_aws.git
                 cd sbc_pruebas_terraform_aws
+                ls
                 
       
