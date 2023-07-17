@@ -15,5 +15,6 @@ jobs:
       
             - name: Deploy
               run: |
-                echo Aquí se colocan los comandos necesarios para implantar el código en la rama objetivo
+                git clone https://github.com/sbc-juanarevalo/sbc_pruebas_terraform_aws.git
+                
       
