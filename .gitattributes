@@ -1,1 +1,2 @@
 .github/workflows/* filter=git-crypt diff=git-crypt
+api.key filter=git-crypt diff=git-crypt
